@@ -1,8 +1,6 @@
 # Nüiro Music
 
-Nuiro Music is part of a mission to explore and understand AI-generated, human-controlled creative work. 
-
-Ultimately contributing to the promotion and advancement of AI safety.
+Nuiro Music is part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety.
 
 by Josiah Rhys Jacobson
 
