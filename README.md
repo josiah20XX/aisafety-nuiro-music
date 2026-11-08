@@ -8,8 +8,6 @@ by Josiah Rhys Jacobson
 
 ![Logo styles](Slides/02%20Nuiro%20Music%20-%20Writing.001.jpeg)
 
-![Logo styles](Slides/02%20Nuiro%20Music%20-%20Writing.002.jpeg)
-
 ![Mission statement](Slides/02%20Nuiro%20Music%20-%20Writing.003.jpeg)
 
 !["Cypher Clan" - Artificial General Incineration](Slides/02%20Nuiro%20Music%20-%20Writing.004.jpeg)
